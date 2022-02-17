@@ -1,5 +1,5 @@
 *{
-    /* border:solid 3px red; */
+    border:solid 3px red; 
 }
 article>div{
     color:blue;
@@ -40,19 +40,19 @@ article h2:only-of-type{
     color:blue;
 }
 ul li:first-child{
-    /* text-decoration: underline; */
-    /* font-size: 3rem; */
-    /* color:white; */
+    /text-decoration: underline; 
+    font-size: 3rem;
+    color:white;
 }
 ul li:last`-child{
-    /* text-decoration: underline; */
+    text-decoration: underline; 
     font-size: 3rem;
-    /* color:white; */
+    color:white; 
 }
 ul li:nth-child(3){
-    /* text-decoration: underline; */
+     text-decoration: underline; 
 }
-/* ul li:nth-child(even){
+ul li:nth-child(even){
     background-color: lightblue;
 } */
 ul li:nth-last-child(3n + 2){
